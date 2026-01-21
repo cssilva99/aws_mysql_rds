@@ -1,4 +1,22 @@
 [Entity-Relation](./assets/entity.jpg)
+
+<details>
+<summary> Entities </summary>
+
+* DiagnosticTroubleCode.cs
+* Driver.cs
+* Maintenance.cs
+* Organization.cs
+* Permission.cs
+* Role.cs
+* RolePermission.cs
+* Subscription.cs
+* TenantEntity.cs
+* User.cs
+* UserOrganisationRole.cs
+* VehicleType.cs
+</details>
+
 <details>
 <summary> MySQL RDS </summary>
 
@@ -11,7 +29,7 @@
   3. Deploying MySQL in us-east-1 (North Virginia)
   (https://youtu.be/fiElOPI54f4)
 </details>
-[Entity-Relation](./assets/entity.jpg)
+
 <details>
 <summary> LINQ in C# </summary>
 
@@ -35,23 +53,6 @@
 * ToDictionary()
 * ToArray()
 * Single()
-</details>
-
-<details>
-<summary> Entities </summary>
-
-* DiagnosticTroubleCode.cs
-* Driver.cs
-* Maintenance.cs
-* Organization.cs
-* Permission.cs
-* Role.cs
-* RolePermission.cs
-* Subscription.cs
-* TenantEntity.cs
-* User.cs
-* UserOrganisationRole.cs
-* VehicleType.cs
 </details>
 
 
