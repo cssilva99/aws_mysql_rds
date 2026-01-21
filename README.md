@@ -11,6 +11,10 @@
   [[Deploy]](https://youtu.be/fiElOPI54f4)
 </details>
 
+<details>
+<summary> Entity-Relation </summary>
+![Entity-Relation Model for the Authentication](caminho-ou-url-da-imagem.jpg)
+</details>
 
 <details>
 <summary> LINQ in C# </summary>
