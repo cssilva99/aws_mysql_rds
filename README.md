@@ -35,7 +35,7 @@
 </details>
 
 <details>
-<summary> LINQ in C# </summary>
+<summary> LINQ in C# </summary> </details> </br>
 
 * Where()
 * Select()
