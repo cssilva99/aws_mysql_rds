@@ -6,7 +6,7 @@
 
 
 <details>
-<summary> Authentication Entities </summary>
+<summary> Authentication Entities </summary> </br>
   - Organization.cs </br>
   - Permission.cs </br>
   - Role.cs </br>
