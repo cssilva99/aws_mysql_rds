@@ -13,7 +13,7 @@
 
 <details>
 <summary> Entity-Relation </summary>
-[![Texto Alternativo da Imagem](./assets/entity.jpg)](assets/entity.jpg)
+[![Texto Alternativo da Imagem](assets/entity.jpg)](assets/entity.jpg)
 </details>
 
 <details>
