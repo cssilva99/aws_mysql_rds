@@ -1,4 +1,4 @@
-[Entity-Relation](./assets/entity.jpg)
+#### Entity Relation Model
 
 <img src="./assets/entity.jpg" alt="Entity Relation" width="400">
 
@@ -12,6 +12,8 @@
   - Tenant.cs </br>
   - UserOrganisationRole.cs </br>
 </details>
+
+<img src="./assets/entity.jpg" alt="Entity Relation" width="400">
 
 <details>
 <summary> Core Feature Entities </summary> </br>
