@@ -1,5 +1,6 @@
 [Entity-Relation](./assets/entity.jpg)
 
+<img src="./assets/entity.jpg" alt="Entity Relation" width="400">
 
 <details>
 <summary> Authentication Entities </summary> </br>
