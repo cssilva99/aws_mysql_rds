@@ -1,4 +1,4 @@
-[Code](./assets/entity.jpg)
+[Entity-Relation](./assets/entity.jpg)
 <details>
 <summary> MySQL RDS </summary>
 
@@ -11,12 +11,7 @@
   3. Deploying MySQL in us-east-1 (North Virginia)
   (https://youtu.be/fiElOPI54f4)
 </details>
-
-<details>
-<summary> Entity-Relation </summary>
-  [Code](./assets/entity.jpg)
-</details>
-
+[Entity-Relation](./assets/entity.jpg)
 <details>
 <summary> LINQ in C# </summary>
 
