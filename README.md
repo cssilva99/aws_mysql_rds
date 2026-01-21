@@ -13,7 +13,7 @@
 
 <details>
 <summary> Entity-Relation </summary>
-[(aws_mysql_rds/assets/entity.png)]
+(./assets/entity.png)
 </details>
 
 <details>
