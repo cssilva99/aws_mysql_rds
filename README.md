@@ -1,11 +1,7 @@
 [Entity-Relation](./assets/entity.jpg)
 
 <details>
-<summary> Entities </summary>
-
-* DiagnosticTroubleCode.cs
-* Driver.cs
-* Maintenance.cs
+<summary> Authentication Entities </summary>
 * Organization.cs
 * Permission.cs
 * Role.cs
@@ -14,6 +10,13 @@
 * TenantEntity.cs
 * User.cs
 * UserOrganisationRole.cs
+</details>
+
+<details>
+<summary> Core Feature Entities </summary>
+* DiagnosticTroubleCode.cs
+* Driver.cs
+* Maintenance.cs
 * VehicleType.cs
 </details>
 
