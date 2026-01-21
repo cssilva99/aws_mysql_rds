@@ -9,6 +9,8 @@
 3. Deploying MySQL in us-east-1 (North Virginia)
 [[Deploy]](https://youtu.be/fiElOPI54f4)
 
+
+
 <details>
 <summary> LINQ in C# </summary>
 
