@@ -36,26 +36,26 @@
 
 <details>
 <summary> LINQ in C# </summary>
-* Where()
-* Select()
-* OrderBY()
-* Count()
-* Take()
-* Min()
-* Max()
-* Last()
-* ToList()
-* All()
-* GroupBy()
-* Any()
-* FirstOrDefault()
-* Sum()
-* Distict()
-* Average()
-* Reverse()
-* ToDictionary()
-* ToArray()
-* Single()
+* Where() </br>
+* Select() </br>
+* OrderBY() </br>
+* Count() </br>
+* Take() </br>
+* Min() </br>
+* Max() </br>
+* Last() </br>
+* ToList() </br>
+* All() </br>
+* GroupBy() </br>
+* Any() </br>
+* FirstOrDefault() </br>
+* Sum() </br>
+* Distict() </br>
+* Average() </br>
+* Reverse() </br>
+* ToDictionary() </br>
+* ToArray() </br>
+* Single() </br>
 </details>
 
 
