@@ -13,7 +13,8 @@
 
 <details>
 <summary> Entity-Relation </summary>
-(./assets/entity.png)
+  [Code](./assets/entity.jpg)
+  [Igual](./assets/entity.jpg)
 </details>
 
 <details>
