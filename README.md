@@ -1,3 +1,4 @@
+[Code](./assets/entity.jpg)
 <details>
 <summary> MySQL RDS </summary>
 
@@ -14,7 +15,6 @@
 <details>
 <summary> Entity-Relation </summary>
   [Code](./assets/entity.jpg)
-  [Igual](./assets/entity.jpg)
 </details>
 
 <details>
