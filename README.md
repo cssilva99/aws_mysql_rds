@@ -1,6 +1,4 @@
-#### Entity Relation Model
-
-<img src="./assets/entity.jpg" alt="Entity Relation" width="400">
+#### Entity Framework on .NET 8
 
 <details>
 <summary> Authentication Entities </summary> </br>
