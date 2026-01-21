@@ -1,5 +1,10 @@
 [Entity-Relation](./assets/entity.jpg)
 
+- Item 1
+- Item 2
+- Item 3
+
+
 <details>
 <summary> Authentication Entities </summary>
 * Organization.cs
