@@ -35,7 +35,7 @@
 </details>
 
 <details>
-<summary> LINQ in C# </summary> </details>
+<summary> LINQ in C# </summary>
 * Where()
 * Select()
 * OrderBY()
