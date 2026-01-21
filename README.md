@@ -13,7 +13,7 @@
 
 <details>
 <summary> Entity-Relation </summary>
-(assets/Entity-Relation-Model.jpg)
+(assets/entity_relation_model/Entity-Relation-Model.jpgg)
 </details>
 
 <details>
