@@ -18,10 +18,10 @@
 
 <details>
 <summary> Core Feature Entities </summary> </br>
-* DiagnosticTroubleCode.cs </br>
-* Driver.cs </br>
-* Maintenance.cs </br>
-* VehicleType.cs </br>
+- DiagnosticTroubleCode.cs </br>
+- Driver.cs </br>
+- Maintenance.cs </br>
+- VehicleType.cs </br>
 </details>
 
 <details>
