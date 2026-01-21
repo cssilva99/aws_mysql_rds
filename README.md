@@ -1,14 +1,15 @@
-#### MySQL RDS
+<details>
+<summary> MySQL RDS </summary>
 
-1. Create AWS Access Key ID and Secret Access Key on AWS Console
-[[Create Keys]](https://youtu.be/07jkKa7oYMs)
-
-2. Configuring AWS Access Key ID and Secret Access Key on Terraform Clud
-[[Configure Keys]](https://youtu.be/rY-VPn5HiyE)
-
-3. Deploying MySQL in us-east-1 (North Virginia)
-[[Deploy]](https://youtu.be/fiElOPI54f4)
-
+  1. Create AWS Access Key ID and Secret Access Key on AWS Console
+  [[Create Keys]](https://youtu.be/07jkKa7oYMs)
+  
+  2. Configuring AWS Access Key ID and Secret Access Key on Terraform Clud
+  [[Configure Keys]](https://youtu.be/rY-VPn5HiyE)
+  
+  3. Deploying MySQL in us-east-1 (North Virginia)
+  [[Deploy]](https://youtu.be/fiElOPI54f4)
+</details>
 
 
 <details>
