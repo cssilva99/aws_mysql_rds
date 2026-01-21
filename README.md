@@ -37,6 +37,22 @@
 * Single()
 </details>
 
+<details>
+<summary> Entities </summary>
+
+* DiagnosticTroubleCode.cs
+* Driver.cs
+* Maintenance.cs
+* Organization.cs
+* Permission.cs
+* Role.cs
+* RolePermission.cs
+* Subscription.cs
+* TenantEntity.cs
+* User.cs
+* UserOrganisationRole.cs
+* VehicleType.cs
+</details>
 
 
 
