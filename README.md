@@ -13,7 +13,7 @@
 
 <details>
 <summary> Entity-Relation </summary>
-(assets/entity_relation_model/Entity-Relation-Model.jpg)
+[![Texto Alternativo da Imagem](url-da-imagem)](https://url-do-link.com)
 </details>
 
 <details>
