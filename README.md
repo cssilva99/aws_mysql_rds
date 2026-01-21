@@ -7,13 +7,13 @@
 
 <details>
 <summary> Authentication Entities </summary>
-  - Organization.cs
-  - Permission.cs
-  - Role.cs
-  - RolePermission.cs
-  - Subscription.cs
-  - Tenant.cs
-  - UserOrganisationRole.cs
+  - Organization.cs </br>
+  - Permission.cs </br>
+  - Role.cs </br>
+  - RolePermission.cs </br>
+  - Subscription.cs </br>
+  - Tenant.cs </br>
+  - UserOrganisationRole.cs </br>
 </details>
 
 <details>
