@@ -10,7 +10,7 @@
 [[Deploy]](https://youtu.be/fiElOPI54f4)
 
 <details>
-<summary>#### LINQ in C#</summary>
+<summary> LINQ in C# </summary>
 
 * Where()
 * Select()
