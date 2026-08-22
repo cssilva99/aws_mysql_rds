@@ -1,1 +1,43 @@
+name: Auto Merge Branches
 
+on:
+  push:
+    branches:
+      - DEV
+      - PROD
+
+jobs:
+  merge-job:
+    runs-on: ubuntu-latest
+    steps:
+      # Step 1: Checkout do código
+      - name: Checkout repository
+        if: false
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0 # Necessário para obter o histórico completo de branches
+
+      # Step 2: Configurar a identidade do Git
+      - name: Set up Git configuration
+        if: false
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+      # Step 3: Lógica para a branch DEV -> development
+      - name: Merge DEV into development
+        if: false && github.ref == 'refs/heads/DEV'
+        run: |
+          git fetch origin development
+          git checkout development
+          git merge origin/DEV --no-ff -m "ci: auto-merge DEV into development"
+          git push origin development
+
+      # Step 4: Lógica para a branch PROD -> main
+      - name: Merge PROD into main
+        if: false && github.ref == 'refs/heads/PROD'
+        run: |
+          git fetch origin main
+          git checkout main
+          git merge origin/PROD --no-ff -m "ci: auto-merge PROD into main"
+          git push origin main
